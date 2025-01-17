@@ -3,7 +3,7 @@
 <h3 style="font-size: 24px;">Одностраничный адаптивный кроссбраузерный сайт для художественной галереи Blanchard.</h3>
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/AjNcdGk.gif" alt="Демо сайта" width="80%">
+<img src="https://i.imgur.com/1Jdvz15.gif" alt="Демо сайта" width="80%">
 </div>
 
 <h2>Описание</h2>
