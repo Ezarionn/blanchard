@@ -3,8 +3,8 @@
 <h3 style="font-size: 24px;">Одностраничный адаптивный кроссбраузерный сайт для художественной галереи Blanchard.</h3>
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/grN51rM.png" alt="Демо сайта" width="50%">
-  <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо сайта" width="50%">
+  <img src="https://i.imgur.com/grN51rM.png" alt="Демо сайта" width="45%">
+  <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо сайта" width="45%">
   <img src="https://i.imgur.com/oBIKYUG.png" alt="Демо сайта" width="50%">
   <img src="https://i.imgur.com/rGnE8GX.png" alt="Демо сайта" width="50%">
 </div>
@@ -21,7 +21,7 @@
 <h3>На сайте реализовано большое количество интерактивных элементов, что позволяет пользователю активно взаимодействовать с контентом, улучшая его опыт и удерживая интерес.</h3>
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/yjY57M3.gif" alt="Демонстрация селекта" width="47%"><img src="https://i.imgur.com/1rS0Ryv.gif" alt="Демонстрация табов" width="33%"><img src="https://i.imgur.com/0HXIPWH.gif" alt="Демонстрация слайдера" width="80%"><img src="https://i.imgur.com/s2ZGA7m.gif" alt="Демонстрация карты" width="80%">
+<img src="https://i.imgur.com/LhfdGMa.gif" alt="Демонстрация селекта" width="47%"><img src="https://i.imgur.com/1rS0Ryv.gif" alt="Демонстрация табов" width="33%"><img src="https://i.imgur.com/0HXIPWH.gif" alt="Демонстрация слайдера" width="80%"><img src="https://i.imgur.com/s2ZGA7m.gif" alt="Демонстрация карты" width="80%">
 </div>
 
 <h2>Разработка</h2>
