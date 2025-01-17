@@ -1,6 +1,6 @@
 # Blanchard
 
-<h2>Одностраничный адаптивный кроссбраузерный сайт для художественной галереи Blanchard.</h2>
+<h3 style="font-size: 24px;">Одностраничный адаптивный кроссбраузерный сайт для художественной галереи Blanchard.</h3>
 
 <div style="text-align: center;">
 <img src="https://i.imgur.com/AjNcdGk.gif" alt="Демо сайта" width="80%">
