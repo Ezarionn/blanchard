@@ -3,7 +3,10 @@
 <h3 style="font-size: 24px;">Одностраничный адаптивный кроссбраузерный сайт для художественной галереи Blanchard.</h3>
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/3ij9Uo2.gif" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/grN51rM.png" alt="Демо сайта" width="50%">
+  <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо сайта" width="50%">
+  <img src="https://i.imgur.com/oBIKYUG.png" alt="Демо сайта" width="50%">
+  <img src="https://i.imgur.com/rGnE8GX.png" alt="Демо сайта" width="50%">
 </div>
 
 <h2>Описание</h2>
@@ -24,7 +27,7 @@
 <h2>Разработка</h2>
 <h3>Для создания сайта использованы HTML5, CSS3 и JavaScript, дополненные сторонними библиотеками, такими как Inputmask, JustValidate, Tippy, Simplebar и др. для эффективного решения задач.</h3>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
