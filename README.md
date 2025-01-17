@@ -14,14 +14,14 @@
 <h3>В проекте реализованы состояния интерактивных элементов, такие как hover, focus и active, что соответствует лучшему пользовательскому опыту. 
 Кроме того, реализована возможность взаимодействия с сайтом с клавиатуры, что расширяет доступность и эффективность взаимодействия.</h3>
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://i.imgur.com/vuznhcR.gif" alt="Состояния элементов" width="80%">
 </div>
 
 <h3>На сайте реализовано большое количество интерактивных элементов, что позволяет пользователю активно взаимодействовать с контентом, улучшая его опыт и удерживая интерес.</h3>
 
 <div align="center">
-<img src="https://i.imgur.com/LhfdGMa.gif" alt="Демонстрация селекта" width="47%"><img src="https://i.imgur.com/1rS0Ryv.gif" alt="Демонстрация табов" width="33%"><img src="https://i.imgur.com/qb3itnm.gif" alt="Демонстрация слайдера" width="80%"><img src="https://i.imgur.com/JXH6Vc8.gif" alt="Демонстрация Эффектов и валидации" width="80%">
+<img src="https://i.imgur.com/LhfdGMa.gif" alt="Демонстрация селекта" width="47%"><img src="https://i.imgur.com/1rS0Ryv.gif" alt="Демонстрация табов" width="33%"><img src="blob:https://imgur.com/2cc51262-0a46-4700-a0f0-cbff67a5358a" alt="Демонстрация слайдера" width="80%"><img src="https://i.imgur.com/JXH6Vc8.gif" alt="Демонстрация Эффектов и валидации" width="80%">
 </div>
 
 <h2>Разработка</h2>
