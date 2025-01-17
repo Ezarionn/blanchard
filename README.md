@@ -20,8 +20,8 @@
 
 <h3>На сайте реализовано большое количество интерактивных элементов, что позволяет пользователю активно взаимодействовать с контентом, улучшая его опыт и удерживая интерес.</h3>
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/LhfdGMa.gif" alt="Демонстрация селекта" width="47%"><img src="https://i.imgur.com/1rS0Ryv.gif" alt="Демонстрация табов" width="33%"><img src="https://i.imgur.com/qb3itnm.gif" alt="Демонстрация слайдера" width="80%"><img src="https://i.imgur.com/RlQhAdr.gif" alt="Демонстрация карты" width="80%">
+<div align="center">
+<img src="https://i.imgur.com/LhfdGMa.gif" alt="Демонстрация селекта" width="47%"><img src="https://i.imgur.com/1rS0Ryv.gif" alt="Демонстрация табов" width="33%"><img src="https://i.imgur.com/qb3itnm.gif" alt="Демонстрация слайдера" width="80%"><img src="https://i.imgur.com/JXH6Vc8.gif" alt="Демонстрация Эффектов и валидации" width="80%">
 </div>
 
 <h2>Разработка</h2>
