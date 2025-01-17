@@ -29,14 +29,6 @@ html {
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Open Sans';
-    src: local('OpenSans-ExtraBold'), url('../fonts/OpenSans-ExtraBold.woff2') format('woff2'), url('../fonts/OpenSans-ExtraBold.woff') format('woff');
-    font-display: swap;
-    font-weight: 800;
-    font-style: normal;
-}
-
 *,
 *::before,
 *::after {

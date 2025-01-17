@@ -1,23 +1,12 @@
-document.addEventListener("DOMContentLoaded", function() {
-
-    // Функция ymaps.ready() будет вызвана, когда
-    // загрузятся все компоненты API, а также когда будет готово DOM-дерево.
+document.addEventListener("DOMContentLoaded", function () {
     ymaps.ready(init);
 
     function init() {
-        // Создание карты.
         var myMap = new ymaps.Map("map", {
-                // Координаты центра карты.
-                // Порядок по умолчанию: «широта, долгота».
-                // Чтобы не определять координаты центра карты вручную,
-                // воспользуйтесь инструментом Определение координат.
-                center: [55.75937610874938, 37.613778458539684],
-                // Уровень масштабирования. Допустимые значения:
-                // от 0 (весь мир) до 19.
-                zoom: 15,
-                controls: ['geolocationControl', 'zoomControl']
-            },
-
+            center: [55.75937610874938, 37.613778458539684],
+            zoom: 15,
+            controls: ['geolocationControl', 'zoomControl']
+        },
             {
                 suppressMapOpenBlock: true,
                 geolocationControlSize: "large",
@@ -30,29 +19,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
         myMap.behaviors.disable('scrollZoom');
 
-
-        // var myGeoObject = new ymaps.GeoObject({
-        //   geometry: {
-        //     type: "Circle", // тип геометрии - точка
-        //     coordinates: [55.75851646745484,37.601067042327784] // координаты точки
-        //   }
-        // });
-
         var myPlacemark = new ymaps.Placemark([55.75937610874938, 37.613778458539684], {}, {
             iconLayout: 'default#image',
             iconImageHref: 'img/map__mark.svg',
             iconImageSize: [20, 20],
             iconImageOffset: [0, 0]
         });
-
-        // Размещение геообъекта на карте.
-        // myMap.geoObjects.add(myGeoObject);
         myMap.geoObjects.add(myPlacemark);
     }
 
 
     const swiper = new Swiper('.swiper', {
-        // Optional parameters
         direction: 'horizontal',
         loop: true,
         speed: 1300,
@@ -110,15 +87,14 @@ document.addEventListener("DOMContentLoaded", function() {
         keyboard: {
             enabled: true,
             onlyInViewport: true
-        }, // можно управлять с клавиатуры стрелками влево/вправо
+        },
 
-        // Дальнейшие надстройки делают слайды вне области видимости не фокусируемыми
         watchSlidesProgress: true,
         watchSlidesVisibility: true,
         slideVisibleClass: "slide-visible",
 
         on: {
-            init: function() {
+            init: function () {
                 this.slides.forEach((slide) => {
                     if (!slide.classList.contains("slide-visible")) {
                         slide.tabIndex = "-1";
@@ -127,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     }
                 });
             },
-            slideChange: function() {
+            slideChange: function () {
                 this.slides.forEach((slide) => {
                     if (!slide.classList.contains("slide-visible")) {
                         slide.tabIndex = "-1";
@@ -138,8 +114,6 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         }
     });
-
-
 
     let eventsSlider = new Swiper(".events__swiper-slides", {
         slidesPerView: 1,
@@ -241,8 +215,6 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     })();
 
-
-    // Табы
     const params = {
         tabsClass: "js-tab-btn",
         wrap: "js-tabs-wrap",
@@ -273,7 +245,7 @@ document.addEventListener("DOMContentLoaded", function() {
             this.classList.add(params.active);
         }
 
-        tabBtns.forEach(function(el) {
+        tabBtns.forEach(function (el) {
             el.addEventListener("click", onTabClick);
         });
     }
@@ -292,15 +264,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     validation
         .addField('.name', [{
-                rule: 'minLength',
-                value: 3,
-                errorMessage: "Минимум 3 символа"
-            },
-            // {
-            //   rule: 'maxLength',
-            //   value: 5,
-            //   errorMessage: "Вы ввели больше чем положено"
-            // }
+            rule: 'minLength',
+            value: 3,
+            errorMessage: "Минимум 3 символа"
+        },
 
         ])
         .addField('.tel', [{
@@ -378,7 +345,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     burger.addEventListener('click',
 
-        function() {
+        function () {
 
             burger.classList.toggle('header__burger--active');
 
@@ -390,14 +357,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
         });
 
-    menu.addEventListener('transitionend', function() {
+    menu.addEventListener('transitionend', function () {
         if (!menu.classList.contains('header__nav--active')) {
             menu.removeAttribute('style');
         }
     });
 
-    menuLinks.forEach(function(el) {
-        el.addEventListener('click', function() {
+    menuLinks.forEach(function (el) {
+        el.addEventListener('click', function () {
 
             burger.classList.remove('header__burger--active');
 
@@ -408,13 +375,12 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     });
 
-
     function setSearch(params) {
         const openBtn = document.querySelector(`.${params.openBtnClass}`);
         const search = document.querySelector(`.${params.searchClass}`);
         const closeBtn = search.querySelector(`.${params.closeBtnClass}`);
 
-        search.addEventListener("animationend", function(evt) {
+        search.addEventListener("animationend", function (evt) {
             if (this._isOpened) {
                 this.classList.remove(params.activeClass);
                 this.classList.remove(params.hiddenClass);
@@ -424,11 +390,11 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         });
 
-        search.addEventListener('click', function(evt) {
+        search.addEventListener('click', function (evt) {
             evt._isSearch = true;
         });
 
-        openBtn.addEventListener("click", function(evt) {
+        openBtn.addEventListener("click", function (evt) {
             this.disabled = true;
 
             if (!search.classList.contains(params.activeClass) &&
@@ -438,12 +404,12 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         });
 
-        closeBtn.addEventListener('click', function() {
+        closeBtn.addEventListener('click', function () {
             openBtn.disabled = false;
             search.classList.add(params.hiddenClass);
         });
 
-        document.body.addEventListener('click', function(evt) {
+        document.body.addEventListener('click', function (evt) {
             if (!evt._isSearch && search._isOpened) {
                 openBtn.disabled = false;
                 search.classList.add(params.hiddenClass);
@@ -452,17 +418,17 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     setSearch({
-        openBtnClass: "js-open-search", // класс кнопки открытия
-        closeBtnClass: "js-close", // класс кнопки закрытия
-        searchClass: "js-form", // класс формы поиска
-        activeClass: "is-opened", // класс открытого состояния
-        hiddenClass: "is-closed" // класс закрывающегося состояния (удаляется сразу после закрытия)
+        openBtnClass: "js-open-search",
+        closeBtnClass: "js-close",
+        searchClass: "js-form",
+        activeClass: "is-opened",
+        hiddenClass: "is-closed"
     });
 
     const anchors = document.querySelectorAll('.header__nav a[href*="#"]')
 
     for (let anchor of anchors) {
-        anchor.addEventListener('click', function(e) {
+        anchor.addEventListener('click', function (e) {
             e.preventDefault()
 
             const blockID = anchor.getAttribute('href').substr(1)
