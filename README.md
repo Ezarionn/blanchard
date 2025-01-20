@@ -27,10 +27,10 @@
 <h3>Лендинг разработан с учетом совместимости с разными устройствами, что позволяет комфортно взаимодействовать на всех типах экранов.</h3>
 
 <div align="center">
-  <img src="https://i.imgur.com/grN51rM.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/oBIKYUG.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/rGnE8GX.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/GMuwCPQ.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/smkuYal.png" alt="Демо сайта" width="80%">
 </div>
 
 <h2>Разработка</h2>
