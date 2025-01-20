@@ -28,8 +28,8 @@
 
 <div align="center">
   <img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="33%" style="vertical-align: top;>
-  <img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="33%" style="vertical-align: top;>
-  <img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="33%" style="vertical-align: top;>
+  <img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="33%">
+  <img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="33%">
 </div>
 
 <div align="center">
