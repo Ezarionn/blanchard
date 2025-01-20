@@ -28,9 +28,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="33%"></td>
-    <td><img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="33%"></td>
-    <td><img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="33%"></td>
+    <td><img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта"></td>
+    <td><img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта""></td>
+    <td><img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта"></td>
   </tr>
 </table>
 
