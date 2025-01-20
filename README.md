@@ -27,9 +27,9 @@
 <h3>Лендинг разработан с учетом совместимости с разными устройствами, что позволяет комфортно взаимодействовать на всех типах экранов.</h3>
 
 <div align="center">
-  <img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="33%">
+  <img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="33%" style="vertical-align: top;>
+  <img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="33%" style="vertical-align: top;>
+  <img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="33%" style="vertical-align: top;>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/GMuwCPQ.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/ExwUhbp.png" alt="Демо сайта" width="33%">
+  <img src="https://i.imgur.com/CDEuW0n.png" alt="Демо сайта" width="33%">
   <img src="https://i.imgur.com/zRbt82h.png" alt="Демо сайта" width="33%">
 </div>
 
