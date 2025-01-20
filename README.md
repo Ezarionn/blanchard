@@ -26,7 +26,7 @@
 
 <h3>Лендинг разработан с учетом совместимости с разными устройствами, что позволяет комфортно взаимодействовать на всех типах экранов.</h3>
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td><img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта"></td>
     <td><img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта""></td>
