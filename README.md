@@ -28,9 +28,26 @@
 
 <div align="center">
   <img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="80%">
+</div>
+
+<div align="center">
   <img src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/EBCJhh1.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/oio3JWx.png" alt="Демо сайта" width="80%">
+</div>
+
+<div align="center">
   <img src="https://i.imgur.com/GMuwCPQ.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/ExwUhbp.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/zRbt82h.png" alt="Демо сайта" width="80%">
+</div>
+
+<div align="center">
   <img src="https://i.imgur.com/smkuYal.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/5ny84TT.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/I7dv3sl.png" alt="Демо сайта" width="80%">
 </div>
 
 <h2>Разработка</h2>
