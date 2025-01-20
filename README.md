@@ -26,30 +26,22 @@
 
 <h3>Лендинг разработан с учетом совместимости с разными устройствами, что позволяет комфортно взаимодействовать на всех типах экранов.</h3>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта"></td>
-    <td><img src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта""></td>
-    <td><img src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта"></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/EBCJhh1.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/oio3JWx.png" alt="Демо сайта" width="33%">
+<div align="center" vertical-align="top">
+  <img align="top" src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="33%">
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/GMuwCPQ.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/CDEuW0n.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/zRbt82h.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/EBCJhh1.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/oio3JWx.png" alt="Демо сайта" width="33%">
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/smkuYal.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/5ny84TT.png" alt="Демо сайта" width="33%">
-  <img src="https://i.imgur.com/I7dv3sl.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/p4Nj1NJ.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/CDEuW0n.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/8gdkoJ6.png" alt="Демо сайта" width="33%">
 </div>
 
 <h2>Разработка</h2>
