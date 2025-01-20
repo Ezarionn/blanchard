@@ -33,15 +33,15 @@
 </div>
 
 <div align="center">
-  <img align="top" src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="33%">
-  <img align="top" src="https://i.imgur.com/EBCJhh1.png" alt="Демо сайта" width="33%">
-  <img align="top" src="https://i.imgur.com/oio3JWx.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/EBCJhh1.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/oio3JWx.png" alt="Демо сайта" width="30%">
 </div>
 
 <div align="center">
-  <img align="top" src="https://i.imgur.com/p4Nj1NJ.png" alt="Демо сайта" width="33%">
-  <img align="top" src="https://i.imgur.com/CDEuW0n.png" alt="Демо сайта" width="33%">
-  <img align="top" src="https://i.imgur.com/8gdkoJ6.png" alt="Демо сайта" width="33%">
+  <img align="top" src="https://i.imgur.com/p4Nj1NJ.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/CDEuW0n.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/8gdkoJ6.png" alt="Демо сайта" width="30%">
 </div>
 
 <h2>Разработка</h2>
