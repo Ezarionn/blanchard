@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://i.imgur.com/grN51rM.png" alt="Демо сайта" width="80%">
   <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/oBIKYUG.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/AqSTOEr.png" alt="Демо сайта" width="80%">
   <img src="https://i.imgur.com/rGnE8GX.png" alt="Демо сайта" width="80%">
 </div>
 
