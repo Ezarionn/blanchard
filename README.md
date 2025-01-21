@@ -3,10 +3,10 @@
 <h3 style="font-size: 24px;">Одностраничный адаптивный кроссбраузерный сайт для художественной галереи Blanchard.</h3>
 
 <div align="center">
-  <img src="https://i.imgur.com/grN51rM.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/AqSTOEr.png" alt="Демо сайта" width="80%">
-  <img src="https://i.imgur.com/rGnE8GX.png" alt="Демо сайта" width="80%">
+  <img src="https://i.imgur.com/grN51rM.png" alt="Демо секции-1" width="80%">
+  <img src="https://i.imgur.com/GXSL0JB.png" alt="Демо секции-2" width="80%">
+  <img src="https://i.imgur.com/AqSTOEr.png" alt="Демо секции-3" width="80%">
+  <img src="https://i.imgur.com/rGnE8GX.png" alt="Демо секции-4" width="80%">
 </div>
 
 <h2>Описание</h2>
@@ -27,21 +27,21 @@
 <h3>Лендинг разработан с учетом совместимости с разными устройствами, что позволяет комфортно взаимодействовать на всех типах экранов.</h3>
 
 <div align="center" vertical-align="top">
-  <img align="top" src="https://i.imgur.com/1qLLBNk.png" alt="Демо сайта" width="30%">
-  <img align="top" src="https://i.imgur.com/h2kY3Jz.png" alt="Демо сайта" width="30%">
-  <img align="top" src="https://i.imgur.com/S95aRKF.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/1qLLBNk.png" alt="Демо секции-1 1024" width="30%">
+  <img align="top" src="https://i.imgur.com/h2kY3Jz.png" alt="Демо секции-1 768" width="30%">
+  <img align="top" src="https://i.imgur.com/S95aRKF.png" alt="Демо секции-1 320" width="30%">
 </div>
 
 <div align="center">
-  <img align="top" src="https://i.imgur.com/67TElfE.png" alt="Демо сайта" width="30%">
-  <img align="top" src="https://i.imgur.com/EBCJhh1.png" alt="Демо сайта" width="30%">
-  <img align="top" src="https://i.imgur.com/oio3JWx.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/67TElfE.png" alt="Демо секции-2 1024" width="30%">
+  <img align="top" src="https://i.imgur.com/EBCJhh1.png" alt="Демо секции-2 768" width="30%">
+  <img align="top" src="https://i.imgur.com/oio3JWx.png" alt="Демо секции-2 320" width="30%">
 </div>
 
 <div align="center">
-  <img align="top" src="https://i.imgur.com/p4Nj1NJ.png" alt="Демо сайта" width="30%">
-  <img align="top" src="https://i.imgur.com/CDEuW0n.png" alt="Демо сайта" width="30%">
-  <img align="top" src="https://i.imgur.com/8gdkoJ6.png" alt="Демо сайта" width="30%">
+  <img align="top" src="https://i.imgur.com/p4Nj1NJ.png" alt="Демо секции-3 1024" width="30%">
+  <img align="top" src="https://i.imgur.com/CDEuW0n.png" alt="Демо секции-3 768" width="30%">
+  <img align="top" src="https://i.imgur.com/8gdkoJ6.png" alt="Демо секции-3 320" width="30%">
 </div>
 
 <h2>Разработка</h2>
