@@ -25,7 +25,7 @@
 
 <hr>
 
-<h2>Разработка</h2>
+<h2>Разработка.</h2>
 <h3>Для создания сайта использованы HTML5, CSS3 и JavaScript, дополненные сторонними библиотеками, такими как Inputmask, JustValidate, Tippy, Simplebar и др. для эффективного решения задач.</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
